@@ -1,0 +1,70 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+*.o
+*.o
+*.d
+*.cmd
+*.log
+*.pyc
+*.swp
+*.swo
+*~
+build
+build-*
+build_*
+cscope.*
+.dir
+venv
+.venv
+
+/*.patch
+
+tags
+.project
+.cproject
+.xxproject
+.envrc
+.vscode
+sanity-out*
+twister-out*
+
+doc/_build
+doc/nrf/_doxygen/
+doc/nrf/_samples/
+doc/*_warnings.txt
+doc/*_doc.log
+
+ext/lib/bin/supl
+ext/lib/bin/libsupl.zip
+
+*.bin
+*.hex
+*.uvoptx
+*.uvguix*
+*.lst
+*.map
+*.axf
+*.elf
+*.htm
+*.inp
+*.dep
+*.dblite
+*JLink*
+
+
